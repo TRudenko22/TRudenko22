@@ -1,15 +1,17 @@
-Hi 👋 My name is Tim Rudenko
+Hi, I'm Tim
 ============================
 
-Python Programmer | Linux Administrator
+Python Programmer | Linux Admin | College Student
 ---------------------------------------
 
 Loving the craft for 3 years. Dual Major in Programming/InfoSec. Open Source evangelist.
 
-* 🌍  I'm based in Western Mass - Pittsburgh - San Antonio
-* ✉️  You can contact me at [timothyrudenko@gmail.com](mailto:timothyrudenko@gmail.com)
-* 🧠  I'm learning bash scripting/automation
-* ⚡  I use Arch... I think.
+* 📍  Based in Western Mass - Pittsburgh - San Antonio
+* 📕  You can contact me at [timothyrudenko@gmail.com](mailto:timothyrudenko@gmail.com)
+* 📖  Learning bash scripting/automation
+* 💻  Current Distro - Manjaro
+* 💻  Current DE - i3
+* 🎨  Colorscheme - Nord
 
 ### Skills
 
