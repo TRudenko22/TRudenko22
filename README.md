@@ -1,4 +1,4 @@
-Hi, I'm Tim
+Tim Rudenko
 ============================
 
 Python Programmer | Linux Admin | College Student
