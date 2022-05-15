@@ -1,7 +1,7 @@
 Tim Rudenko
 ============================
 
-Python Programmer | Linux Admin | College Student
+Python Programmer | | College Student
 ---------------------------------------
 
 Loving the craft for 3 years. Dual Major in Programming/InfoSec. Open Source evangelist.
