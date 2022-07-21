@@ -7,11 +7,9 @@ Python Programmer | College Student
 Dual Major in Programming/InfoSec. Open Source evangelist.
 
 * 📍  Based in ((Western Mass)) - Pittsburgh - San Antonio
-* 📕  You can contact me at [timothyrudenko@gmail.com](mailto:timothyrudenko@gmail.com)
+* 📕  Email: [timothyrudenko@gmail.com](mailto:timothyrudenko@gmail.com)
 * 📖  Learning bash scripting/automation
 * 💻  Current Distro - Manjaro
-* 💻  Current DE - i3
-* 🎨  Colorscheme - Nord
 
 ### Skills
 
