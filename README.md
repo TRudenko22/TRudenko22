@@ -9,7 +9,7 @@ Dual Major in Programming/InfoSec. Open Source evangelist.
 * 📍  Based in ((Western Mass)) - Pittsburgh - San Antonio
 * 📕  Email: [timothyrudenko@gmail.com](mailto:timothyrudenko@gmail.com)
 * 📖  Learning Go programming
-* 💻  Current Distro - Pop!_os
+* 💻  Current Distro - pop!_os
 
 ### Skills
 
