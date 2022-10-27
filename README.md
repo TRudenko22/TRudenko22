@@ -11,6 +11,8 @@ Dual Major in Programming/InfoSec. Open Source evangelist.
 * 📖  Learning Go programming
 * 💻  Current Distro - pop!_os
 
+[My Blog](https://timothyrudenko.medium.com)
+
 ### Skills
 
 <p align="left">
