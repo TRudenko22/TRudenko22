@@ -11,7 +11,10 @@ Dual Major in Programming/InfoSec. Open Source evangelist.
 * 📖  Learning: Infrastructure as code
 * 💻  Current Distro - fedora 37
 
-[My Blog](https://timothyrudenko.medium.com)
+Blog: https://timothyrudenko.medium.com
+
+My Music:
+- [Youtube](https://www.youtube.com/channel/UCmfwJVwZx3t8wuZ-uzdyHNw)
 
 ### Skills
 
