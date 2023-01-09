@@ -30,7 +30,6 @@ Listen to my music: [here](https://www.youtube.com/channel/UCmfwJVwZx3t8wuZ-uzdy
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TRudenko22"><img src="https://github-readme-stats.vercel.app/api?username=TRudenko22&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="TRudenko22's GitHub stats" /></a>
 
 <a href="http://www.github.com/TRudenko22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TRudenko22&stroke=ffffff&background=1c1917&ring=444e59&fire=444e59&currStreakNum=ffffff&currStreakLabel=444e59&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
