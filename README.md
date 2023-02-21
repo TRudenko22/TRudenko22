@@ -34,6 +34,3 @@ Listen to my music: [here](https://www.youtube.com/channel/UCmfwJVwZx3t8wuZ-uzdy
 <a href="http://www.github.com/TRudenko22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TRudenko22&stroke=ffffff&background=1c1917&ring=444e59&fire=444e59&currStreakNum=ffffff&currStreakLabel=444e59&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/TRudenko22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRudenko22&langs_count=10&title_color=444e59&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Feed Me
-<a href="https://www.buymeacoffee.com/timothyrudb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
