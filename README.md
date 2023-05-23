@@ -9,7 +9,7 @@ Sysadmin | Programmer
 *   🌍  Based in ((Western Mass))  -  San Antonio  -  Pittsburgh
 *   🧠  Learning Go
 
-Listen to my music: [here](https://www.youtube.com/channel/UCmfwJVwZx3t8wuZ-uzdyHNw)
+
 
                   
 ### Skills 
