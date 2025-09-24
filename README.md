@@ -1,7 +1,7 @@
 Tim Rudenko
 ============================
 
-Sysadmin | Programmer
+Systems Engineer | Programmer
 ---------------------
 
 <a href="https://www.github.com/TRudenko22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TRudenko22?logo=github&style=for-the-badge&color=64748b&labelColor=1c1917" /></a>
