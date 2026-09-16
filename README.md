@@ -1,7 +1,10 @@
 Tim Rudenko
 ============================
 
-Systems Engineer | Architect of Explorer Cluster
+Systems Engineer 
+
+Architect of Explorer Cluster
+
 Adjunct Linux Professor
 
 ---------------------
