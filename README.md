@@ -1,15 +1,13 @@
 Tim Rudenko
 ============================
 
-Systems Engineer 
+HPC Systems Engineer 
 
-Architect of Explorer Cluster
+Creator of Explorer Cluster
 
 Adjunct Linux Professor
 
 ---------------------
-
-<a href="https://www.github.com/TRudenko22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TRudenko22?logo=github&style=for-the-badge&color=64748b&labelColor=1c1917" /></a>
 
 *   🌍  Based in ((Western Mass))  -  San Antonio  -  Pittsburgh
 *   🧠  Learning Go
